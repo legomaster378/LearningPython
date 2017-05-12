@@ -2,6 +2,8 @@ import math
 
 
 class Solver:
+    """this is a solver"""
+    # the above is a doc string
     def demo(self, a, b, c):
         d = b ** 2 - 4 * a * c
         if d > 0:
